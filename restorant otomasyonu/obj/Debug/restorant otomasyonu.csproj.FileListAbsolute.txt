@@ -1,0 +1,7 @@
+C:\Users\yigit\OneDrive\Desktop\C#\restorant otomasyonu\bin\Debug\restorant otomasyonu.exe.config
+C:\Users\yigit\OneDrive\Desktop\C#\restorant otomasyonu\bin\Debug\restorant otomasyonu.exe
+C:\Users\yigit\OneDrive\Desktop\C#\restorant otomasyonu\bin\Debug\restorant otomasyonu.pdb
+C:\Users\yigit\OneDrive\Desktop\C#\restorant otomasyonu\obj\Debug\restorant otomasyonu.csproj.AssemblyReference.cache
+C:\Users\yigit\OneDrive\Desktop\C#\restorant otomasyonu\obj\Debug\restorant otomasyonu.csproj.CoreCompileInputs.cache
+C:\Users\yigit\OneDrive\Desktop\C#\restorant otomasyonu\obj\Debug\restorant otomasyonu.exe
+C:\Users\yigit\OneDrive\Desktop\C#\restorant otomasyonu\obj\Debug\restorant otomasyonu.pdb
